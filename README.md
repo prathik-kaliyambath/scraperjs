@@ -1,4 +1,4 @@
-# simplescraper
+# scraperjs
 A simple web scraper written using NodeJs with the help of cheerio and request libraries. Scrapes medium.com and stores all the links recursively in out.csv.
 
 # Setting Up
