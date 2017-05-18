@@ -4,6 +4,8 @@
     "dependencies": {
     "cheerio": "latest",
     "request":"latest",
-    "infinite-loop":"latest"
+    "infinite-loop":"latest",
+    "async": "latest",
+    "fs":"latest"
   }
 }
