@@ -1,0 +1,9 @@
+{
+    "name": "scraperjs",
+    "version": "0.0.1",
+    "dependencies": {
+    "cheerio": "latest",
+    "request":"latest",
+    "infinite-loop":"latest"
+  }
+}
